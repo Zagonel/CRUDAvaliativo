@@ -48,4 +48,8 @@ public class Funcionario {
         return "Funcionario{" + "nome=" + nome + ", cpf=" + cpf + ", salario=" + salario + ", id=" + id + '}';
     }
 
+    public void setHorasTrabalhadas(int aux) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
 }
